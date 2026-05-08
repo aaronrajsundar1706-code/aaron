@@ -1,0 +1,10 @@
+rs10 = int(input("Enter no.of Rs 10: "))
+rs5 = int(input("Enter no.of Rs 5: "))
+rs2 = int(input("Enter no.of Rs 2: "))
+rs1 = int(input("Enter no.of Rs 1: "))
+tot_amt = rs10*10 + rs5*5 + rs2*2 + rs1*1
+print("No.of RS 10: ",rs10*10)
+print("No.of RS 5: ",rs5*5)
+print("No.of RS 2: ",rs2*2)
+print("No.of RS 1: ",rs1*1)
+print("Total Amount: ",tot_amt)
